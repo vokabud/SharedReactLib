@@ -1,5 +1,5 @@
 import * as React from "react";
-import { CommonService } from "../services/common.service"
+import { CommonService } from "./common.service"
 
 export default class CommonComponent extends React.Component {
   public constructor(props: any) {
